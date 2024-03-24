@@ -1,6 +1,6 @@
 <p align="right">
   <a href="https://github.com/kettanaito/naming-cheatsheet">
-    <img src="./naming-cheatsheet.svg" alt="Naming cheatsheet" />
+    <img src="./naming-cheatsheet.svg" alt="Flaming cheatsheet" />
   </a>
 </p>
 
